@@ -6,6 +6,6 @@
 
 ## Linux CLI, and HTTP
 
-![Linux CLI course](kottans-frontend\task_linux_cli\cli_done.png)
+![Linux CLI course](task_linux_cli\cli_done.png)
 
 Interesting course, bit more complicated at the end - had some troubles with scripting, so i used hints. Everything was new to me and i was surprised of how powerful and useful comand line can be.
