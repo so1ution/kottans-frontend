@@ -1,6 +1,6 @@
 ## Git and GitHub
 
-5. Describe your impressions about learned materials.
+1. Describe your impressions about learned materials.
 	So i finished udacity git courses and learngitbranching.js.org, the last was quite easy and with course tasks i maybe had some troubles, but in the end nothing complicated.
 	I'm far from mastering git, but it will come later in practice.
 
