@@ -9,3 +9,9 @@
 ![cli_done](https://user-images.githubusercontent.com/46057247/53376010-9f622400-3965-11e9-8242-20f8636ca09c.png)
 
 Interesting course, bit more complicated at the end - had some troubles with scripting, so i used hints. Everything was new to me and i was surprised of how powerful and useful comand line can be.
+
+## Git Collaboration
+
+![git_for_team_collaboration_done](https://user-images.githubusercontent.com/46057247/54354889-66fa5f80-4660-11e9-9475-81b13ad15e17.png)
+
+Another great course that fill in some blanks, for example introduction of the features of git rebase command was super helpful.
