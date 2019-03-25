@@ -15,3 +15,10 @@ Interesting course, bit more complicated at the end - had some troubles with scr
 ![git_for_team_collaboration_done](https://user-images.githubusercontent.com/46057247/54354889-66fa5f80-4660-11e9-9475-81b13ad15e17.png)
 
 Another great course that fill in some blanks, for example introduction of the features of git rebase command was super helpful.
+
+##Intro to HTML and CSS
+
+![intro_to_HTML_CSS_done](https://user-images.githubusercontent.com/46057247/54954612-b3447a00-4f53-11e9-8e24-ba3cda925c30.png)
+![basics_of_HTML_CSS_done](https://user-images.githubusercontent.com/46057247/54954584-a58ef480-4f53-11e9-8195-67d12acadbad.png)
+
+I've already done course at htmlacademy couple of years before, now it seems bit easier, still has stupid final task with those targets. But inspite of that particular task its very exciting. 
