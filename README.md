@@ -22,3 +22,10 @@ Another great course that fill in some blanks, for example introduction of the f
 ![basics_of_HTML_CSS_done](https://user-images.githubusercontent.com/46057247/54954584-a58ef480-4f53-11e9-8195-67d12acadbad.png)
 
 I've already done course at htmlacademy couple of years before, now it seems bit easier, still has stupid final task with those targets. But inspite of that particular task its very exciting. 
+
+##Responsive Web Design
+
+![responsive_webdesign_basics_done](https://user-images.githubusercontent.com/46057247/55364905-1ea9c100-54eb-11e9-8b9c-96103bbf7af1.png)
+![flexbox_froggy_done](https://user-images.githubusercontent.com/46057247/55364918-2bc6b000-54eb-11e9-9a97-424448bd79fa.png)
+
+This course put to test what i've just learned about html/css, had some troubles with sliding navbar and break-points, but in the end figure that out. Feels good when everything working as you want.
