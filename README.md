@@ -39,3 +39,10 @@ particular task its very exciting.
 >This course put to test what i've just learned about html/css, had some troubles 
 with sliding navbar and break-points, but in the end figure that out. Feels good 
 when everything working as you want.
+
+## JS Basics
+
+![intro_to_js_done](https://user-images.githubusercontent.com/46057247/56832646-3b7cae80-6875-11e9-89ae-a179546f5ab9.PNG)
+![ES6_done](https://user-images.githubusercontent.com/46057247/64494143-c3e27580-d291-11e9-86b8-011c820e0e79.PNG)
+![basic_js_done](https://user-images.githubusercontent.com/46057247/64494157-fab88b80-d291-11e9-82e5-c0391ebe1924.PNG)
+![basic_data_structures_done](https://user-images.githubusercontent.com/46057247/64494161-16239680-d292-11e9-8e11-774dcafb5aa5.PNG)
